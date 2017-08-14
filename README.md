@@ -1,6 +1,6 @@
-# todos
+# VueJS Todos with Vuex
 
-> A Vue.js project
+> A VueJS todos app using Vuex
 
 ## Build Setup
 
